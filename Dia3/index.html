@@ -6,6 +6,76 @@
     <title>Mi primer web</title>
 </head>
 <body>
-    
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+<form action="" method="post">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Registro - web</title>
+</head>
+ <body>
+    <link rel="stylesheet" href="style.css">
+    <h1>Formulario de registro</h1>
+    <table>  
+         
+        <tr>
+            <br>Nombre
+            <input type="text" id="Nombre" maxlength="50">
+            <div>
+                
+                <br>
+                <tr> Apellido
+                    <input type="text" id="Apellido" maxlength="50">
+                    <div>
+                        <br>
+                        <tr> Sexo
+                            <select name="Sexo" id="Sexo">
+                                <option value=""></option>
+                                <option value="Masculino">Masculino</option>
+                                <option value="Femenino">Femenino</option>
+                                <option value="Machete">Machete</option>
+                            </select>
+                            <div>
+                                <br>
+                                <tr>
+                                    <label for="Correo">Correo Electronico</label>
+                                    <input type="text" id="Correo" placeholder="example@gmail.com">
+                                </tr>
+                            </div>
+                        </tr>
+                    </div>
+                </tr>
+            </div>
+        </tr>
+        <div>
+            <br> Deseo recibir información sobre novedades y ofertas
+            <input checked type="checkbox" name="checkbox1" id="checkbox1">
+        </div>
+        <br>
+              <div>Declaro haber leído y aceptar las condiciones generales del programa y la normativa sobre protección de datos
+                   <input type="checkbox" name="checkbox2" id="checkbox2">
+             </div>
+             <br>
+                 <div>Poblancion
+                    <select name="Poblancion" id="Poblancion">
+                        <option value="Bucaramanga">Bucaramanga</option>
+                        <option value="giron">giron</option>
+                        <option value="Floridablanca">Floridablanca</option>
+                        <option value="Piedecuesta">Piedecuesta</option>
+                    </select>
+                 </div>
+                 <br>
+                     <div>
+                         <textarea rows="5" cols="45"></textarea>
+                     </div>
+             <br>
+                <div>
+                  <button type="submit">Enviar Formulario</button>
+                </div>
+</form>
+    </table>
+</body>
+</html>
 </body>
 </html>
