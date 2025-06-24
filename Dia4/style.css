@@ -1,154 +1,190 @@
-body{
-    background: transparent url(./img/FondoTwitch.png);
+body {
+    background: transparent url(./img/FondoTwitch.png) no-repeat;
+    background-color: black;
+
 
 }
 
-.login{
-    position: absolute;
+.login {
+    position: relative;
     margin-top: -40px;
     margin-left: 90%;
     width: 50%;
 }
 
-.login p{
+.login p {
     position: absolute;
-    top: -31px;
-    left: 40px;
+    top: -24px;
+    left: 60px;
     font-size: 30px;
     font-family: Arial;
 }
 
-.Prime{
+.Prime {
     margin-top: 100px;
-   text-align: center;
+    text-align: center;
 }
 
-.text{
-    margin-top: -40px ;
-    font-size: 60px;
+.text {
+    text-align: center;
+    font-size: 50px;
     font-family: Arial;
+    color: white;
 
 }
 
-.text1{
-font-size: 25px;
-}
-
-.Group{
-    position: relative;
-    left: 43%;
-    top: 20px;
-}
-
-.text2{
-    position: relative;
-    left: 43.8%;
-    top: -62px;
+.text1 {
     font-size: 25px;
-    font-family: Arial;
+    color: white;
+    text-align: center;
 }
 
-.text_Rectangle{
+.img-group {
+ position: relative;
+ left: 42.5%;
+ width: 13% ;
+ margin-top: 1%;
+}
+
+.Sign-up{
+   position: relative;
+   left: 43%;
+   margin-top: -2.9%;
+   font-size: 30px;
+    
+}
+
+.img-Rectangle{
+    position: relative;
+    left: 8%;
+    
+}
+
+
+
+.text_Rectangle {
     position: relative;
     top: -510px;
-    left: 21%;
+    left: 23%;
     font-size: 60px;
     font-family: Arial;
     color: white;
 }
 
-.television{
-    position:absolute;
+.television {
+    position: absolute;
     left: 45%;
     margin-top: -550px;
 }
 
-.text_downtelevision{
-    position:absolute;
+.text_downtelevision {
+    position: absolute;
     top: 120%;
-    left: 15%;
+    left: 12%;
     font-family: Arial;
     font-size: 180%;
     color: white
 }
 
-.text_Rectangle_2{
- position: absolute;
- left:10%;
- margin-top: -28%;
- font-family: Arial;
- font-size: 55px;
- color: white;
+.img-Rectangle2{
+    position: relative;
+    left: 8%;
+    
 }
 
-.pelis{
+.text_Rectangle_2 {
+    position: absolute;
+    left: 16%;
+    margin-top: -28%;
+    font-family: Arial;
+    font-size: 50px;
+    color: white;
+}
+
+.pelis {
     position: relative;
-    left:27%;
+    left: 26%;
     margin-top: -22.5%;
 
 }
 
-.text_pelis{
-    position: relative;
-    left:7%;
-    margin-top: 4%;
-    font-family: Arial;
-    font-size: 30px;
-    color: white;
-}
-
-.text_cancel{
-    position: relative;
-    left:33%;
-    margin-top:-26% ;
-    font-family: Arial;
-    font-size:45px;
-    color: white;
-}
-
-.cancel{
-    position: relative;
-    left: 42%;
-}
-
-.text_cancel_2{
+.text_pelis {
     position: relative;
     left: 12%;
-    margin-top: 2%;
-    font-size:40px ;
+    margin-top: 4%;
+    font-family: Arial;
+    font-size: 28px;
     color: white;
 }
 
-.devices{
+.img-Rectangle3{
     position: relative;
-    left: 26%;
+    left: 8%;
+    
+}
+.text_cancel {
+    position: relative;
+    left: 36%;
+    margin-top: -23%;
+    font-family: Arial;
+    font-size: 45px;
+    color: white;
+}
+
+.cancel {
+    position: relative;
+    left: 46%;
+    top: 34px;
+}
+
+.text_cancel_2 {
+    position: relative;
+    left: 12%;
+    margin-top: 5%;
+    font-size: 40px;
+    color: white;
+}
+
+.devices {
+    text-align: center;
     margin-top: 15%;
     font-size: 90px;
     font-family: Arial;
+    color: white;
 }
 
-.range_devices{
-    position: relative;
+.range_devices {
+    text-align: center;
     margin-top: -3;
     font-size: 45px;
     font-family: Arial;
-    text-align:center;
+    color: white;
 }
 
-.systems{
+.systems {
     position: relative;
     left: 26%;
 }
 
-.flecha_izquierda{
+.flecha_izquierda {
     position: relative;
     left: 20%;
     top: 150px;
 }
 
-.flecha_derecha{
+.flecha_derecha {
     position: relative;
-    left:75%;
+    left: 75%;
     top: 150px;
-    rotate:calc(185deg);
+    rotate: calc(185deg);
+}
+
+.final_text{
+    color: white;
+    text-align:center;
+    font-family: Arial;
+    font-size: 25px;
+    line-height: 8px;
+    
+
 }
