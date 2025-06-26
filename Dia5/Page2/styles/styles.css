@@ -1,0 +1,187 @@
+body{
+    background:linear-gradient(100deg,#FFFFFF 0%,#E6E6E6 21%,#808080 100% );
+}
+
+.rectangulo{
+    top: 100px;
+    left: 300px;
+    width: 1400px;
+    height: 800px;
+    background-color: white;
+    position: absolute;
+}
+
+.rectangulo1{
+    top: 750px;
+    left: 1350px;
+    width: 160px;
+    height: 114px;
+    background-color: greenyellow;
+    position: absolute;
+    border-radius: 10%;
+}
+
+.logo{
+    position: absolute;
+    top: 135px;
+    left: 325px;
+    height: 50px ;
+    width: 100px;
+}
+
+.ComprarTarjeta{
+    top: 135px;
+    left: 1000px;
+    font-size: 30px;
+    position: absolute;
+}
+
+.VerSaldo{
+    top: 105px;
+    left: 1250px;
+    font-size: 30px;
+    position: absolute;
+}
+
+.lupa{
+    top: 145px;
+    left: 1380px;
+    position: absolute;
+}
+
+.Carro{
+    top: 145px;
+    left: 1480px;
+    position: absolute;
+}
+
+.Tarjeta{
+    top: 205px;
+    left: 680px;
+    position: absolute;
+}
+
+.TextoAbajo{
+    top: 480px;
+    left: 615px;
+    position: absolute;
+    font-family: Arial;
+}
+
+.TextoMasAbajo{
+    top: 550px;
+    left: 735px;
+    font-size: 30px;
+    position: absolute;
+    font-family: Arial;
+}
+
+.Logo1{
+    top: 780px;
+    left: 1365px;
+    width: 160px;
+    height: 116px;
+    position: absolute;
+}
+
+.TextoDeLogo1{
+    top: 795px;
+    left: 1372px;
+    position: absolute;
+    font-size: 30px;
+    font-family: Arial;
+}
+
+.Linea{
+    top: 100px;
+    left: 1590px;
+    position: absolute;
+    width: 110px;
+    height: 800px;
+    background-color: #212020;
+}
+
+.Flecha1{
+    top: 850px;
+    left: 1634px;
+    position: absolute;
+}
+
+.Flecha2{
+    top: 130px;
+    left: 1634px;
+    position: absolute;
+}
+
+.cantidad{
+    top: 200px;
+    left: 1598px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.numero1{
+    top: 360px;
+    left: 1637px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.numero2{
+    top: 420px;
+    left: 1637px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.numero3{
+    top: 480px;
+    left: 1637px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.numero4{
+    top: 540px;
+    left: 1637px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.numero5{
+    top: 600px;
+    left: 1637px;
+    position: absolute;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.textEscogido{
+    top: 620px;
+    left: 850px;
+    position: absolute;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+
+.robar{
+    top: 680px;
+    left: 800px;
+    position: absolute;
+    width: 288px;
+    height: 58px;
+    border: 1px solid;
+    border-radius: 50px;
+    font-size: 20px;
+}
