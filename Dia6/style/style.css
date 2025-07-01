@@ -39,14 +39,14 @@ a.First_bottoms a:hover{
 
 .img3{
     position: absolute;
-    top: 35%;
+    top: 40%;
     left: 39%;
 }
 
 .With{
     position: absolute;
     color: white;
-    left: 31%;
+    left: 28%;
     top: 78%;
     font-size: 90px;
 }
@@ -59,7 +59,7 @@ a.First_bottoms a:hover{
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    left: 49%;
+    left: 47%;
     margin-top: 38%;
     font-size: 20px;
     padding: 10px;
@@ -68,8 +68,8 @@ a.First_bottoms a:hover{
 
 .img5{
     position: relative;
-    margin-left: 5%;
-    top:1100px;
+    left: -10%;
+    top:1000px;
 }
 
 .TextImg5{
@@ -109,7 +109,7 @@ hr{
 .img2{
     position: relative;
     top: 1600px;
-    left: 10%;
+    left: 5%;
 }
 
 .TextImg2{
@@ -118,7 +118,7 @@ hr{
     top: 1100px;
     font-size: 80px;
     display: block;
-    max-width: 30%;
+    max-width: 40%;
     left: 10%;
 }
 
@@ -146,9 +146,9 @@ hr{
 
 .content{
     position: relative;
-    width: 500px;
+    width: 400px;
     height: 500px;
-    left: 2%;
+    left: 8%;
     top: 1500px;
     background-color: black;
     border-radius: 2%;
@@ -158,7 +158,7 @@ hr{
 .img_content{
     position: absolute;
     top: -70px;
-    left: 35%;
+    left: 32%;
 }
 
 .TextContent h1{
@@ -170,7 +170,7 @@ hr{
 .TextContent{
     position: relative;
     top: 46%;
-    left: 38%;
+    left: 34%;
     color: white;
     font-size: 25px;
     font-family: Arial;
@@ -178,9 +178,9 @@ hr{
 
 .content1{
     position: relative;
-    width: 500px;
+    width: 400px;
     height: 500px;
-    left: 35%;
+    left: 40%;
     top: 1000px;
     background-color: black;
     border-radius: 2%;
@@ -190,7 +190,7 @@ hr{
 .img_content1{
     position: absolute;
     top: -70px;
-    left: 35%;
+    left: 33%;
 }
 
 .content1 h1{
@@ -203,7 +203,7 @@ hr{
 .TextContent1{
     position: relative;
     top: 44%;
-    left: 38%;
+    left: 36%;
     color: white;
     font-size: 25px;
     font-family: Arial;
@@ -211,10 +211,10 @@ hr{
 
 .content2{
     position: relative;
-    width: 500px;
+    width: 400px;
     height: 500px;
     top: 500px;
-    left: 68%;
+    left: 71.5%;
     background-color: black;
     border-radius: 2%;
     border: 3px solid rgb(223, 153, 49);
@@ -223,7 +223,7 @@ hr{
 .img_content2{
     position: absolute;
     top: -70px;
-    left: 35%;
+    left: 33%;
 }
 
 .content2 h1{
@@ -236,7 +236,7 @@ hr{
 .TextContent2{
     position: relative;
     top: 44%;
-    left: 38%;
+    left: 36%;
     color: white;
     font-size: 25px;
     font-family: Arial;
@@ -245,12 +245,12 @@ hr{
 .hr1{
     max-width: 700px;
     margin-top: 800px;
-    left: -70px;
+    left: -0px;
 }
 
 .Final_titles p{
     position: relative;
-    left: 600px;
+    left: 550px;
     text-align: center;
     display: inline;
     font-size: 50px;
@@ -264,19 +264,22 @@ hr{
 
 .About_Us{
     position: relative;
-    left: -10%;
+    left: -20%;
+    color: white;
 }
 
 .Contact_Us{
     position: relative;
-    top: -120px;
-    left: 300px;
+    top: -145px;
+    left: 200px;
+    color: white;
 }
 
 .Opening_Hourse{
     position: relative;
-    left: 800px;
-    top: -235px;
+    left: 700px;
+    top: -289.5px;
+    color: white;
 }
 
 .About_Us p1{
