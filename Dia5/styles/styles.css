@@ -1,8 +1,10 @@
-body{
-    background:linear-gradient(100deg,#FFFFFF 0%,#E6E6E6 21%,#808080 100% );
+body {
+    height: max-content;
+    background-color: #FFFFFF 0%, #E6E6E6 21%, #808080 100%;
+    background: linear-gradient(100deg, #FFFFFF 0%, #E6E6E6 21%, #808080 100%);
 }
 
-.rectangulo{
+.rectangulo {
     top: 100px;
     left: 300px;
     width: 1400px;
@@ -11,7 +13,7 @@ body{
     position: absolute;
 }
 
-.rectangulo1{
+.rectangulo1 {
     top: 750px;
     left: 1350px;
     width: 160px;
@@ -21,54 +23,54 @@ body{
     border-radius: 10%;
 }
 
-.logo{
+.logo {
     position: absolute;
     top: 135px;
     left: 325px;
-    height: 50px ;
+    height: 50px;
     width: 100px;
 }
 
-.ComprarTarjeta{
+.ComprarTarjeta {
     top: 105px;
     left: 1000px;
     font-size: 30px;
     position: absolute;
 }
 
-.VerSaldo{
+.VerSaldo {
     top: 135px;
     left: 1250px;
     font-size: 30px;
     position: absolute;
 }
 
-.lupa{
+.lupa {
     top: 145px;
     left: 1380px;
     position: absolute;
 }
 
-.Carro{
+.Carro {
     top: 145px;
     left: 1480px;
     position: absolute;
 }
 
-.Tarjeta{
+.Tarjeta {
     top: 245px;
     left: 420px;
     position: absolute;
 }
 
-.TextoAbajo{
+.TextoAbajo {
     top: 740px;
     left: 365px;
     position: absolute;
     font-family: Arial;
 }
 
-.TextoMasAbajo{
+.TextoMasAbajo {
     top: 800px;
     left: 365px;
     font-size: 20px;
@@ -76,7 +78,7 @@ body{
     font-family: Arial;
 }
 
-.Logo1{
+.Logo1 {
     top: 780px;
     left: 1365px;
     width: 160px;
@@ -84,7 +86,7 @@ body{
     position: absolute;
 }
 
-.TextoDeLogo1{
+.TextoDeLogo1 {
     top: 795px;
     left: 1372px;
     position: absolute;
@@ -92,7 +94,7 @@ body{
     font-family: Arial;
 }
 
-.Linea{
+.Linea {
     top: 100px;
     left: 1590px;
     position: absolute;
@@ -101,19 +103,19 @@ body{
     background-color: #212020;
 }
 
-.Flecha1{
+.Flecha1 {
     top: 850px;
     left: 1634px;
     position: absolute;
 }
 
-.Flecha2{
+.Flecha2 {
     top: 130px;
     left: 1634px;
     position: absolute;
 }
 
-.cantidad{
+.cantidad {
     top: 200px;
     left: 1598px;
     position: absolute;
@@ -122,7 +124,7 @@ body{
     font-family: sans-serif;
 }
 
-.numero1{
+.numero1 {
     top: 360px;
     left: 1637px;
     position: absolute;
@@ -131,7 +133,7 @@ body{
     font-family: sans-serif;
 }
 
-.numero2{
+.numero2 {
     top: 420px;
     left: 1637px;
     position: absolute;
@@ -140,7 +142,7 @@ body{
     font-family: sans-serif;
 }
 
-.numero3{
+.numero3 {
     top: 480px;
     left: 1637px;
     position: absolute;
@@ -149,7 +151,7 @@ body{
     font-family: sans-serif;
 }
 
-.numero4{
+.numero4 {
     top: 540px;
     left: 1637px;
     position: absolute;
@@ -158,7 +160,7 @@ body{
     font-family: sans-serif;
 }
 
-.numero5{
+.numero5 {
     top: 600px;
     left: 1637px;
     position: absolute;
