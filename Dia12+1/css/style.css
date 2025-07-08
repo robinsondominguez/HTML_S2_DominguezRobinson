@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+
+.bernie{
+    margin: auto;
+    image-rendering: pixelated;
+    position: relative;
+    top: 150px;
+    width: 60px;
+    height: 100px;
+    background-image: url('../img/bernie.png');
+    background-size:cover;
+    bottom: 30px;
+    animation: bernie .45s steps(7) infinite;
+    z-index: 1;
+}
+
+@keyframes bernie{
+    from{
+background-position: 0px;
+    }
+    to{
+        background-position: -500px;
+    }
+}
+
+.sky{
+    margin: auto;
+    image-rendering: pixelated;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-image: url('../img/monkey-sky.png');
+    background-size:contain;
+    bottom: 30px;
+    animation: sky 30s steps(900) infinite;
+}
+
+@keyframes sky{
+    from{
+background-position: 0px;
+    }
+    to{
+        background-position: -2000px;
+    }
+}
+
+.sea{
+    margin: auto;
+    image-rendering: pixelated;
+    position: relative;
+    width: 100%;
+    height: 100px;
+    background-image: url('../img/monkey-sea.png');
+    background-size:contain;
+    bottom: 30px;
+    animation: sea 30s steps(900) infinite;
+}
+
+@keyframes sea{
+    from{
+background-position: 0px;
+    }
+    to{
+        background-position: -2000px;
+    }
+}
