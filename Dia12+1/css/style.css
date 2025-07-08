@@ -56,6 +56,7 @@ background-position: 0px;
     background-size:contain;
     bottom: 30px;
     animation: sea 30s steps(900) infinite;
+    filter: brightness(.4);
 }
 
 @keyframes sea{
